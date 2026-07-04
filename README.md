@@ -3,11 +3,6 @@ Is there anyone experienced who could try running this operating-system-like pro
 
 
 
-
-
-
-
-
 Could anyone help refine my prompt? I can provide the Markdown (.md) document, and I can run it again afterward. Collaboration is also welcome.
 
 
@@ -257,7 +252,6 @@ Others:
 
 2. Detailed documentation regarding the consensus system for defining and partitioning the value ownership of digital-physical entities can be provided upon request.
    https://github.com/mailtopia/mailtopia/raw/refs/heads/main/MAILTOPIA.zip
-
 
 
 航天观点，以月球为举例： 人类的第一个永久驻扎点最应该的方式是在月空而不是在月表，运行的是在可变动的机动轨道上，因此对探索成果的共识是资产而非土地
