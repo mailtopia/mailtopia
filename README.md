@@ -232,6 +232,8 @@ Limitations of the current Internet:
    rather than continuously optimizing and patching the existing network, why not rebuild the system from the ground up?  
    A completely new networking paradigm may ultimately be more cost-efficient and scalable.
 
+3. Current AI has extended the capabilities of agents primarily within the desktop computing environment. Because existing systems were not inherently designed for the Internet of Things, their ability to interact with and control the physical world remains extremely limited. Such capabilities cannot be effectively realized through the narrow interface of a desktop-centric paradigm.
+
 
 #### It is an essential and critical tool for celestial exploration:
 
