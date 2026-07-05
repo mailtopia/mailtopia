@@ -250,7 +250,8 @@ Others:
    https://github.com/mailtopia/mailtopia/raw/refs/heads/main/MAILTOPIA.zip
 
 
-- using the Moon as an example; avoid viewing lunar development through an Earth-centric lens: Humanity's first permanent settlement should ideally be established in a very low lunar orbit (VLLO) rather than on the lunar surface. Operating from a maneuverable and adaptable orbit, rather than a fixed location, fundamentally changes how exploration should be understood. Consequently, consensus regarding the outcomes of exploration should be based on space assets rather than land ownership.
+#### Using the Moon as an example; avoid viewing lunar development through an Earth-centric lens:
+- Humanity's first permanent settlement should ideally be established in a very low lunar orbit (VLLO) rather than on the lunar surface. Operating from a maneuverable and adaptable orbit, rather than a fixed location, fundamentally changes how exploration should be understood. Consequently, consensus regarding the outcomes of exploration should be based on space assets rather than land ownership.
 
 月面驻扎评价：
 
