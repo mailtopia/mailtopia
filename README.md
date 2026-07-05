@@ -1,11 +1,7 @@
 Is there anyone experienced who could try running this operating-system-like project? I can provide the .md file, but I’m not getting it to work properly on my end.
 
 
-
-
 Could anyone help refine my prompt? I can provide the Markdown (.md) document, and I can run it again afterward. Collaboration is also welcome.
-
-
 
 
 This may be an unusual request, but I believe it could serve as a meaningful benchmark for what AI-assisted software engineering is truly capable of today.
