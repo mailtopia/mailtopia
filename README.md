@@ -249,4 +249,6 @@ Others:
 2. Detailed documentation regarding the consensus system for defining and partitioning the value ownership of digital-physical entities can be provided upon request.
    https://github.com/mailtopia/mailtopia/raw/refs/heads/main/MAILTOPIA.zip
 
+3. Further Reading https://github.com/ReadClaw/ReadClaw
+   
 ```
