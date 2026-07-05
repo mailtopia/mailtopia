@@ -6,7 +6,7 @@ Could anyone help refine my prompt? I can provide the Markdown (.md) document, a
 
 This may be an unusual request, but I believe it could serve as a meaningful benchmark for what AI-assisted software engineering is truly capable of today.
 
-Has anyone here successfully used AI to build software that tightly integrates hardware-human social networking with an operating-system-level architecture—for example, something architecturally similar to GPT-5.6?
+Has anyone successfully used AI to build software that tightly integrates hardware-human social networking with an operating-system-level architecture—for example, something similar to GPT-5.6?
 
 I’m asking because I’ve seen many recent discussions suggesting that AI can now generate complete software projects end-to-end within a single workflow. For more complex systems, AI-driven autonomous development (through prompting, tool loops, or agent-based workflows) is reportedly capable of completing over 70% of engineering tasks autonomously, including internal workflows at companies like Anthropic and OpenAI.
 
