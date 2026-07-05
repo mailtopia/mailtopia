@@ -53,11 +53,11 @@ The system runs on a consensus information network whose primary grounding refer
 
 - The following examples are intended to help AI agents understand the intended architecture and interaction model. They progress from simple device interactions to planetary-scale coordination.
 
-1. Universal Addressing
+- 1. Universal Addressing
 
 Every entity—human, device, service, organization, or celestial body—is assigned a unique mail address. Cross-domain communication is performed through these addresses. Humans and objects are treated as equal participants at the application layer while remaining isolated by clearly defined permission boundaries. Devices may optionally use hash-based email addresses as their underlying identities.
 
-2. Device Communication Through Mail
+- 2. Device Communication Through Mail
 
 A user sends a message to a light:
 Turn on the light.
@@ -72,7 +72,7 @@ The house routes the message to the washing machine, which further distributes t
 
 The general workflow is: Device joins the network → receives an address → user communicates through mail → internal modules receive distributed messages → execution completes → confirmation is returned.
 
-3. Plug-and-Play Devices
+- 3. Plug-and-Play Devices
 
 When a device joins the network:
 
@@ -92,13 +92,13 @@ A printer connects to the system.
 
 Instead of asking the user to install drivers, it authenticates with the manufacturer and automatically retrieves the appropriate software package.
 
-4. Intelligent Document Processing
+- 4. Intelligent Document Processing
 
 A user sends a document to a printer. The printer automatically determines the printable content from the message body or its attachments.
 
 After printing finishes, it sends a confirmation message: Printing completed successfully.
 
-5. Social Interaction Between Humans and Devices
+- 5. Social Interaction Between Humans and Devices
 
 A user may communicate simultaneously with many devices through their mailboxes. Devices can be organized into conversation groups. Users may:
 
@@ -109,7 +109,7 @@ or even program devices through messages.
 
 Every device maintains a trusted communication channel with its manufacturer. If a fault occurs, the device communicates directly with the manufacturer for diagnosis and repair whenever possible.
 
-6. House-Level Workflow Automation
+- 6. House-Level Workflow Automation
 
 Before the owner arrives home, the house receives a message.
 
@@ -117,7 +117,7 @@ The house decomposes the request into multiple subtasks and distributes them to 
 
 When the owner arrives, all devices have already completed their startup sequence according to the desired workflow.
 
-7. Enterprise Workflow
+- 7. Enterprise Workflow
 
 A company receives an email containing a contract. The operating system automatically:
 
@@ -130,7 +130,7 @@ and returns the finalized contract.
 
 Purchase orders follow the same principle. Tasks may be routed to manufacturers, organizations, AI agents, or human specialists.
 
-8. Autonomous Collaboration
+- 8. Autonomous Collaboration
 
 Manufacturers periodically send firmware updates to devices.
 
@@ -138,13 +138,13 @@ Devices automatically install compatible updates.
 Devices also negotiate tasks directly with one another.
 After collaborative work is completed, the participating devices notify the owner.
 
-9. Component-Level Addressability
+- 9. Component-Level Addressability
 
 Every component inside a vehicle has its own address. Every manufacturing event, maintenance record, and operational log is traceable through message history.
 
 The vehicle's internal mail-communication bus functions as an internal conversation network. Collected information is continuously summarized into a real-time dashboard for the user.
 
-10. Dynamic User Interfaces
+- 10. Dynamic User Interfaces
 
 No fixed graphical interface exists. Interfaces are generated on demand through AI. Every entity can expose different interfaces according to permission levels. Messages are automatically divided into:
 
@@ -154,35 +154,35 @@ administrator-only information.
 
 Humans similarly separate social content into public and private views.Devices expose operational dashboards while protecting sensitive controls.
 
-11. Planetary Monitoring
+- 11. Planetary Monitoring
 
 Sensors deployed on celestial bodies continuously report environmental conditions and system status. These reports are delivered to owners and manufacturers. Authorized users may monitor or control the systems.
 
 Unauthorized users may still access publicly available telemetry through address-based browsers and submit recommendations. No dedicated application is required.
 
-12. Planetary Communication
+- 12. Planetary Communication
 
 Humans communicate directly with the Moon. Example: > Illuminate the entire lunar surface. or > Display a smiling face using lunar lighting infrastructure. Planets communicate directly with one another. Example: Mars requests temporary storage resources from Earth.
 
 The planets jointly publish a public system announcement. The Hubble Space Telescope automatically replies: > Camera ready. Awaiting observation.
 
-13. Solar-System-Scale Coordination
+- 13. Solar-System-Scale Coordination
 
 The entire Solar System behaves like a distributed intelligent organism. It continuously monitors environmental conditions, predicts hazards, coordinates defensive actions against threats such as asteroids, and mobilizes available infrastructure to protect life.
 
 Collective human objectives become executable workflows spanning planets. To preserve trust and consistency, every communication path ultimately references Earth as the grounding node of the consensus network.
 
-14. Universal Social Networking
+- 14. Universal Social Networking
 
 Humans communicate with objects. Objects communicate with objects. Objects negotiate contracts, exchange services, perform settlements, allocate resources, and cooperate autonomously. Human-to-human communication follows the same underlying protocol.
 
-15. Proposal–Contract–Consensus
+- 15. Proposal–Contract–Consensus
 
 Every interaction—whether between humans, machines, organizations, or celestial bodies—is represented as: Proposal → Agreement → Execution → Verification → Consensus Record. Every workflow is cryptographically stamped.
 
 Promises become verifiable commitments rather than informal agreements.
 
-16. Knowledge Engine
+- 16. Knowledge Engine
 
 The operating system continuously delivers the most useful knowledge and capabilities to both humans and machines. Knowledge ranking is determined by usefulness, correctness, and long-term value rather than commercial incentives or popularity.
 
