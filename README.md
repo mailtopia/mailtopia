@@ -250,7 +250,7 @@ Others:
    https://github.com/mailtopia/mailtopia/raw/refs/heads/main/MAILTOPIA.zip
 
 
-航天观点，以月球为举例（勿要用地球观点看待月球的建设）： 人类的第一个永久驻扎点最应该的方式是在月空而不是在月表，运行的是在可变动的机动轨道上，因此对探索成果的共识是资产而非土地
+- using the Moon as an example; avoid viewing lunar development through an Earth-centric lens: Humanity's first permanent settlement should ideally be established in a very low lunar orbit (VLLO) rather than on the lunar surface. Operating from a maneuverable and adaptable orbit, rather than a fixed location, fundamentally changes how exploration should be understood. Consequently, consensus regarding the outcomes of exploration should be based on space assets rather than land ownership.
 
 月面驻扎评价：
 
