@@ -249,34 +249,4 @@ Others:
 2. Detailed documentation regarding the consensus system for defining and partitioning the value ownership of digital-physical entities can be provided upon request.
    https://github.com/mailtopia/mailtopia/raw/refs/heads/main/MAILTOPIA.zip
 
-
-#### Using the Moon as an example, avoid viewing lunar development through an Earth-centric lens:
-- Humanity's first permanent settlement should ideally be established in a very low lunar orbit (VLLO) rather than on the lunar surface. Operating from a maneuverable and adaptable orbit, rather than a fixed location, fundamentally changes how exploration should be understood. Consequently, consensus regarding the outcomes of exploration should be based on space assets rather than land ownership.
-
-月面驻扎评价：
-
-人类不可能也没那么多资源在短期内驻满月表
-月球永昼区域面积十分有限，局限于狭小空间的竞争完全没意义
-月球着陆技术难度高、风险大、起降成本高
-月面基地建设周期长、耗费高、人员往来不便利
-固定驻扎具有月震与陨石风险、月尘问题造成巨大麻烦
-原位资源的采集、加工制造难以即刻成熟
-月表宇宙射线辐射大，人员需要躲避月球隧洞居住
-月表极其单调，生活措施简陋，对人类心理生理健康造成巨大破坏
-月空驻扎评价：
-
-椭圆轨道具有较长时间的光照期，近月点快速移动耗时短，夜期极短
-克服质量瘤，绕月舱以极小能量支持即可长期稳定运行
-航天器可提前实现预警，机动灵活地变轨以躲避陨石
-抗宇宙射线效果等同月球隧洞，生活措施较完善、人员转换便利
-同样可以承担月空工厂、太空计算、核动力设施的安置
-转运输耗费小、效率高，原因 https://github.com/ReadClaw/ReadClaw
-往月空投送资产建立共识信息网理由：
-
-月球亲铁元素极为匮乏，地球火箭体完全没有必要进行大规模可回收重复使用，完全可以作为未来的元素资产存储于月空近月轨道处
-月球近月轨道航天器可以部署计算资源，成为月端计算，服务月球建设和供应地球；随着月球舱增加，可以建设为月空的集群城市
-在月表真空中试验与完善高精度高空投放技术，以气囊包裹-绵湖-坑基气囊实现物资的软着陆与溅落
-月球早期探索主角既非人类也非机器，而是传感器；需要把传感器大面积播散，形成共识的通讯与探测基础，而后才让机器运行其间
-把月球作为大型开发开放平台，以开源模式让公众参与，以共识的激励机制把成果和经验快速复制到其它星球
-
 ```
